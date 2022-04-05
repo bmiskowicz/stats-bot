@@ -1,0 +1,76 @@
+Sebastian Adamczyk	PGE Skra Be³chatów	œrodkowy	8.0	9.0	16.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	11.0	2.0	1.0	6.0	54.55	3.0	0.38
+Robbert Andringa	Indykpol AZS Olsztyn	przyjmuj¹cy	90.0	162.0	303.0	21.0	68.0	0.23	264.0	22.0	61.0	67.0	25.38	323.0	27.0	34.0	126.0	39.01	15.0	0.17
+Aleksander Atanasijevic	PGE Skra Be³chatów	atakuj¹cy	95.0	395.0	395.0	37.0	84.0	0.39	6.0	0.0	2.0	1.0	16.67	643.0	72.0	65.0	334.0	51.94	24.0	0.25
+Taylor Averill	Indykpol AZS Olsztyn	œrodkowy	56.0	103.0	168.0	7.0	33.0	0.12	6.0	1.0	1.0	0.0	0.0	113.0	7.0	7.0	69.0	61.06	27.0	0.48
+Redi Bakiri	Indykpol AZS Olsztyn	przyjmuj¹cy	7.0	12.0	14.0	0.0	4.0	0.0	29.0	4.0	10.0	2.0	6.9	29.0	2.0	4.0	12.0	41.38	0.0	0.0
+Korneliusz Banach	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	libero	10.0	0.0	0.0	0.0	0.0	0.0	12.0	0.0	4.0	1.0	8.33	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Arpad Baróti	Jastrzêbski Wêgiel	atakuj¹cy	4.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	1.0	1.0	50.0	0.0	0.0
+Wassim Ben Tara	PSG Stal Nysa	atakuj¹cy	97.0	463.0	363.0	39.0	68.0	0.4	25.0	5.0	6.0	5.0	20.0	796.0	48.0	88.0	391.0	49.12	33.0	0.34
+Szymon Bereza	LUK  Lublin	rozgrywaj¹cy	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Aleksander Berger	Cerrad Enea Czarni Radom	przyjmuj¹cy	74.0	183.0	215.0	6.0	40.0	0.08	448.0	43.0	95.0	110.0	24.55	349.0	27.0	50.0	158.0	45.27	19.0	0.26
+Mateusz Bieniek	PGE Skra Be³chatów	œrodkowy	104.0	302.0	489.0	54.0	78.0	0.52	13.0	0.0	4.0	4.0	30.77	328.0	15.0	14.0	193.0	58.84	55.0	0.53
+Szymon Biniek	Jastrzêbski Wêgiel	libero	3.0	0.0	0.0	0.0	0.0	0.0	14.0	0.0	4.0	6.0	42.86	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Jay Blankenau	Projekt Warszawa	rozgrywaj¹cy	73.0	16.0	78.0	7.0	10.0	0.1	2.0	1.0	0.0	0.0	0.0	15.0	2.0	0.0	6.0	40.0	3.0	0.04
+Grzegorz Bociek	Cuprum Lubin	atakuj¹cy	36.0	80.0	77.0	9.0	21.0	0.25	2.0	0.0	0.0	1.0	50.0	145.0	7.0	16.0	67.0	46.21	4.0	0.11
+Bart³omiej Bo³¹dŸ	Œlepsk Malow Suwa³ki	atakuj¹cy	97.0	462.0	366.0	26.0	83.0	0.27	10.0	4.0	2.0	1.0	10.0	800.0	49.0	73.0	417.0	52.12	19.0	0.2
+Stephen Boyer	Jastrzêbski Wêgiel	atakuj¹cy	56.0	186.0	178.0	13.0	40.0	0.23	3.0	0.0	0.0	0.0	0.0	316.0	23.0	30.0	154.0	48.73	19.0	0.34
+Adrian Buchowski	Œlepsk Malow Suwa³ki	przyjmuj¹cy	82.0	183.0	212.0	5.0	41.0	0.06	381.0	28.0	93.0	75.0	19.69	368.0	21.0	39.0	167.0	45.38	11.0	0.13
+Jakub Bucki	Asseco Resovia Rzeszów	atakuj¹cy	53.0	36.0	72.0	2.0	20.0	0.04	1.0	1.0	0.0	0.0	0.0	59.0	8.0	8.0	29.0	49.15	5.0	0.09
+Bartosz Buæko	PSG Stal Nysa	przyjmuj¹cy	44.0	116.0	92.0	2.0	30.0	0.05	186.0	16.0	51.0	24.0	12.9	203.0	16.0	22.0	106.0	52.22	8.0	0.18
+Rafa³ Buszek	Asseco Resovia Rzeszów	przyjmuj¹cy	17.0	10.0	23.0	1.0	6.0	0.06	33.0	2.0	9.0	5.0	15.15	21.0	3.0	4.0	8.0	38.1	1.0	0.06
+Karol Butryn	Indykpol AZS Olsztyn	atakuj¹cy	94.0	427.0	329.0	45.0	86.0	0.48	13.0	2.0	5.0	1.0	7.69	673.0	49.0	58.0	353.0	52.45	29.0	0.31
+Maximiliano Cavanna	Aluron CMC Warta Zawiercie	rozgrywaj¹cy	50.0	17.0	130.0	4.0	9.0	0.08	1.0	0.0	1.0	0.0	0.0	13.0	1.0	1.0	6.0	46.15	7.0	0.14
+Bartosz Cedzyñski	Jastrzêbski Wêgiel	œrodkowy	4.0	6.0	10.0	0.0	4.0	0.0	5.0	0.0	1.0	0.0	0.0	6.0	0.0	0.0	4.0	66.67	2.0	0.5
+Micha³ Ciok	Trefl Gdañsk	przyjmuj¹cy	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Jakub Ciunajtis	Indykpol AZS Olsztyn	libero	16.0	0.0	0.0	0.0	0.0	0.0	62.0	7.0	16.0	14.0	22.58	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Trevor Clevenot	Jastrzêbski Wêgiel	przyjmuj¹cy	72.0	247.0	264.0	13.0	35.0	0.18	440.0	27.0	94.0	114.0	25.91	424.0	24.0	41.0	214.0	50.47	20.0	0.28
+Facundo Conte	Aluron CMC Warta Zawiercie	przyjmuj¹cy	95.0	363.0	360.0	30.0	82.0	0.32	563.0	55.0	166.0	124.0	22.02	640.0	57.0	73.0	314.0	49.06	19.0	0.2
+Pablo Crer	Trefl Gdañsk	œrodkowy	48.0	106.0	156.0	6.0	18.0	0.12	11.0	2.0	1.0	1.0	9.09	118.0	6.0	6.0	76.0	64.41	24.0	0.5
+Aleksander Czerwiñski	PGE Skra Be³chatów	przyjmuj¹cy	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Mateusz Czunkiewicz	Œlepsk Malow Suwa³ki	libero	86.0	0.0	0.0	0.0	0.0	0.0	427.0	30.0	91.0	93.0	21.78	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Klemen Èebulj	Asseco Resovia Rzeszów	przyjmuj¹cy	92.0	325.0	339.0	35.0	82.0	0.38	513.0	51.0	148.0	103.0	20.08	537.0	30.0	41.0	258.0	48.04	32.0	0.35
+Torey DeFalco	Indykpol AZS Olsztyn	przyjmuj¹cy	89.0	443.0	346.0	46.0	88.0	0.52	553.0	54.0	175.0	144.0	26.04	653.0	52.0	36.0	357.0	54.67	40.0	0.45
+Kamil Dembiec	PSG Stal Nysa	libero	82.0	0.0	0.0	0.0	0.0	0.0	247.0	23.0	45.0	62.0	25.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Dominik Depowski	Aluron CMC Warta Zawiercie	przyjmuj¹cy	8.0	6.0	9.0	0.0	3.0	0.0	22.0	2.0	7.0	1.0	4.55	15.0	2.0	2.0	5.0	33.33	1.0	0.12
+Sam Deroo	Asseco Resovia Rzeszów	przyjmuj¹cy	83.0	274.0	294.0	22.0	45.0	0.27	472.0	29.0	133.0	89.0	18.86	497.0	38.0	52.0	229.0	46.08	23.0	0.28
+Kamil Dêbski	PSG Stal Nysa	przyjmuj¹cy	67.0	44.0	103.0	11.0	28.0	0.16	80.0	13.0	23.0	15.0	18.75	64.0	7.0	8.0	30.0	46.88	3.0	0.04
+Damian Domaga³a	GKS Katowice	atakuj¹cy	83.0	60.0	130.0	6.0	33.0	0.07	6.0	0.0	4.0	0.0	0.0	133.0	11.0	21.0	48.0	36.09	6.0	0.07
+Dawid Dryja	Jastrzêbski Wêgiel	œrodkowy	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Kamil Drzazga	GKS Katowice	œrodkowy	46.0	13.0	87.0	1.0	11.0	0.02	2.0	1.0	0.0	0.0	0.0	16.0	0.0	0.0	8.0	50.0	4.0	0.09
+Fabian Drzyzga	Asseco Resovia Rzeszów	rozgrywaj¹cy	96.0	52.0	262.0	7.0	50.0	0.07	5.0	1.0	4.0	0.0	0.0	33.0	0.0	2.0	17.0	51.52	28.0	0.29
+Milad Ebadipour	PGE Skra Be³chatów	przyjmuj¹cy	100.0	281.0	275.0	12.0	71.0	0.12	454.0	42.0	103.0	86.0	18.94	500.0	50.0	49.0	245.0	49.0	24.0	0.24
+Zouheir El Graoui	PSG Stal Nysa	przyjmuj¹cy	45.0	168.0	175.0	15.0	36.0	0.33	310.0	28.0	64.0	46.0	14.84	298.0	35.0	20.0	139.0	46.64	14.0	0.31
+Rafa³ Faryna	Cerrad Enea Czarni Radom	atakuj¹cy	72.0	300.0	277.0	22.0	64.0	0.31	20.0	5.0	8.0	0.0	0.0	537.0	56.0	54.0	254.0	47.3	24.0	0.33
+Wojciech Ferens	Cuprum Lubin	przyjmuj¹cy	94.0	299.0	316.0	24.0	72.0	0.26	564.0	30.0	174.0	110.0	19.5	529.0	32.0	54.0	253.0	47.83	22.0	0.23
+Bartosz Filipiak	LUK  Lublin	atakuj¹cy	98.0	394.0	293.0	22.0	97.0	0.22	30.0	6.0	7.0	2.0	6.67	759.0	56.0	86.0	341.0	44.93	31.0	0.32
+Pawe³ Filipowicz	Œlepsk Malow Suwa³ki	libero	15.0	0.0	0.0	0.0	0.0	0.0	84.0	4.0	17.0	19.0	22.62	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Jan Firlej	Indykpol AZS Olsztyn	rozgrywaj¹cy	86.0	44.0	315.0	8.0	36.0	0.09	10.0	0.0	10.0	0.0	0.0	52.0	7.0	2.0	18.0	34.62	18.0	0.21
+Bartosz Firszt	Cerrad Enea Czarni Radom	przyjmuj¹cy	51.0	60.0	80.0	2.0	17.0	0.04	192.0	22.0	39.0	58.0	30.21	139.0	10.0	19.0	51.0	36.69	7.0	0.14
+Jan Fornal	Projekt Warszawa	przyjmuj¹cy	20.0	32.0	34.0	1.0	12.0	0.05	83.0	8.0	23.0	10.0	12.05	56.0	5.0	5.0	28.0	50.0	3.0	0.15
+Tomasz Fornal	Jastrzêbski Wêgiel	przyjmuj¹cy	88.0	329.0	347.0	26.0	59.0	0.3	441.0	34.0	86.0	115.0	26.08	488.0	20.0	29.0	256.0	52.46	47.0	0.53
+Janusz Ga³¹zka	Projekt Warszawa	œrodkowy	27.0	45.0	62.0	3.0	21.0	0.11	7.0	1.0	0.0	1.0	14.29	65.0	2.0	2.0	36.0	55.38	6.0	0.22
+Daniel G¹sior	Cerrad Enea Czarni Radom	atakuj¹cy	49.0	80.0	127.0	11.0	21.0	0.22	4.0	0.0	1.0	3.0	75.0	157.0	14.0	12.0	66.0	42.04	3.0	0.06
+Micha³ Gier¿ot	Cuprum Lubin	przyjmuj¹cy	35.0	36.0	35.0	0.0	6.0	0.0	68.0	5.0	18.0	14.0	20.59	79.0	4.0	8.0	33.0	41.77	3.0	0.09
+Jurij Gladyr	Jastrzêbski Wêgiel	œrodkowy	67.0	160.0	240.0	19.0	62.0	0.28	12.0	0.0	4.0	3.0	25.0	168.0	8.0	13.0	95.0	56.55	46.0	0.69
+Igor Gniecki	LUK  Lublin	rozgrywaj¹cy	38.0	10.0	56.0	3.0	14.0	0.08	0.0	0.0	0.0	0.0	0.0	10.0	1.0	0.0	2.0	20.0	5.0	0.13
+Szymon Gregorowicz	LUK  Lublin	libero	72.0	0.0	1.0	0.0	0.0	0.0	4.0	1.0	3.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0
+Igor Grobelny	Projekt Warszawa	przyjmuj¹cy	95.0	258.0	380.0	33.0	69.0	0.35	610.0	60.0	177.0	123.0	20.16	472.0	47.0	42.0	200.0	42.37	25.0	0.26
+Jêdrzej Gruszczyñski	Indykpol AZS Olsztyn	libero	88.0	1.0	0.0	0.0	0.0	0.0	623.0	37.0	178.0	146.0	23.43	1.0	0.0	0.0	1.0	100.0	0.0	0.0
+Dawid Gunia	Cuprum Lubin	œrodkowy	54.0	78.0	158.0	8.0	21.0	0.15	8.0	1.0	0.0	2.0	25.0	97.0	0.0	4.0	55.0	56.7	15.0	0.28
+Jan Hadrava	Jastrzêbski Wêgiel	atakuj¹cy	80.0	271.0	231.0	32.0	39.0	0.4	7.0	1.0	2.0	2.0	28.57	406.0	21.0	29.0	207.0	50.99	32.0	0.4
+Piotr Hain	GKS Katowice	œrodkowy	87.0	148.0	259.0	5.0	15.0	0.06	33.0	1.0	8.0	5.0	15.15	185.0	17.0	10.0	104.0	56.22	39.0	0.45
+Pawe³ Halaba	Œlepsk Malow Suwa³ki	przyjmuj¹cy	56.0	179.0	189.0	19.0	30.0	0.34	306.0	32.0	61.0	67.0	21.9	309.0	19.0	26.0	154.0	49.84	6.0	0.11
+Norbert Huber	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	œrodkowy	78.0	254.0	317.0	39.0	67.0	0.5	27.0	0.0	9.0	6.0	22.22	244.0	9.0	11.0	153.0	62.7	62.0	0.79
+Dominik Jaglarski	Projekt Warszawa	libero	18.0	1.0	19.0	1.0	0.0	0.06	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Szymon Jakubiszak	Indykpol AZS Olsztyn	œrodkowy	70.0	91.0	131.0	3.0	15.0	0.04	19.0	0.0	3.0	8.0	42.11	119.0	8.0	8.0	72.0	60.5	16.0	0.23
+Mateusz Janikowski	Projekt Warszawa	przyjmuj¹cy	43.0	47.0	60.0	5.0	19.0	0.12	158.0	11.0	49.0	34.0	21.52	82.0	8.0	13.0	34.0	41.46	8.0	0.19
+Wiktor Janiszewski	Indykpol AZS Olsztyn	przyjmuj¹cy	13.0	14.0	31.0	2.0	5.0	0.15	79.0	11.0	18.0	13.0	16.46	33.0	1.0	3.0	10.0	30.3	2.0	0.15
+Karol Jankiewicz	Indykpol AZS Olsztyn	rozgrywaj¹cy	21.0	6.0	51.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	4.0	0.0	0.0	2.0	50.0	4.0	0.19
+Marcin Janusz	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	rozgrywaj¹cy	88.0	50.0	313.0	15.0	26.0	0.17	4.0	1.0	2.0	0.0	0.0	8.0	0.0	1.0	4.0	50.0	31.0	0.35
+Jakub Jarosz	GKS Katowice	atakuj¹cy	91.0	401.0	293.0	30.0	77.0	0.33	5.0	1.0	3.0	0.0	0.0	714.0	45.0	92.0	352.0	49.3	19.0	0.21
+Mateusz JóŸwik	LUK  Lublin	przyjmuj¹cy	29.0	31.0	43.0	3.0	12.0	0.1	97.0	7.0	31.0	17.0	17.53	66.0	3.0	10.0	23.0	34.85	5.0	0.17
+£ukasz Kaczmarek	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	atakuj¹cy	83.0	394.0	356.0	24.0	53.0	0.29	28.0	1.0	7.0	5.0	17.86	636.0	37.0	52.0	333.0	52.36	37.0	0.45
+Tomasz Kalembka	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	œrodkowy	20.0	4.0	25.0	1.0	7.0	0.05	3.0	0.0	1.0	0.0	0.0	3.0	0.0	1.0	1.0	33.33	2.0	0.1
+Lukas Kampa	Trefl Gdañsk	rozgrywaj¹cy	78.0	50.0	268.0	23.0	48.0	0.29	3.0	0.0	3.0	0.0	0.0	27.0	5.0	0.0	13.0	48.15	14.0	0.18
+Marcin Kania	GKS Katowice	œrodkowy	85.0	157.0	269.0	7.0	17.0	0.08	16.0	1.0	4.0	3.0	18.75	221.0	13.0	11.0	117.0	52.94	33.0	0.39
+Remigiusz Kapica	Cuprum Lubin	atakuj¹cy	88.0	364.0	306.0	30.0	92.0	0.34	30.0	7.0	10.0	2.0	6.67	644.0	47.0	86.0	321.0	49.84	13.0	0.15

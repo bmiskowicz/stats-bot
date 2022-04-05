@@ -1,0 +1,21 @@
+Sebastian Adamczyk	PGE Skra Be³chatów	œrodkowy	8.0	9.0	16.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	11.0	2.0	1.0	6.0	54.55	3.0	0.38
+Taylor Averill	Indykpol AZS Olsztyn	œrodkowy	56.0	103.0	168.0	7.0	33.0	0.12	6.0	1.0	1.0	0.0	0.0	113.0	7.0	7.0	69.0	61.06	27.0	0.48
+Mateusz Bieniek	PGE Skra Be³chatów	œrodkowy	104.0	302.0	489.0	54.0	78.0	0.52	13.0	0.0	4.0	4.0	30.77	328.0	15.0	14.0	193.0	58.84	55.0	0.53
+Bartosz Cedzyñski	Jastrzêbski Wêgiel	œrodkowy	4.0	6.0	10.0	0.0	4.0	0.0	5.0	0.0	1.0	0.0	0.0	6.0	0.0	0.0	4.0	66.67	2.0	0.5
+Pablo Crer	Trefl Gdañsk	œrodkowy	48.0	106.0	156.0	6.0	18.0	0.12	11.0	2.0	1.0	1.0	9.09	118.0	6.0	6.0	76.0	64.41	24.0	0.5
+Dawid Dryja	Jastrzêbski Wêgiel	œrodkowy	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Kamil Drzazga	GKS Katowice	œrodkowy	46.0	13.0	87.0	1.0	11.0	0.02	2.0	1.0	0.0	0.0	0.0	16.0	0.0	0.0	8.0	50.0	4.0	0.09
+Janusz Ga³¹zka	Projekt Warszawa	œrodkowy	27.0	45.0	62.0	3.0	21.0	0.11	7.0	1.0	0.0	1.0	14.29	65.0	2.0	2.0	36.0	55.38	6.0	0.22
+Jurij Gladyr	Jastrzêbski Wêgiel	œrodkowy	67.0	160.0	240.0	19.0	62.0	0.28	12.0	0.0	4.0	3.0	25.0	168.0	8.0	13.0	95.0	56.55	46.0	0.69
+Dawid Gunia	Cuprum Lubin	œrodkowy	54.0	78.0	158.0	8.0	21.0	0.15	8.0	1.0	0.0	2.0	25.0	97.0	0.0	4.0	55.0	56.7	15.0	0.28
+Piotr Hain	GKS Katowice	œrodkowy	87.0	148.0	259.0	5.0	15.0	0.06	33.0	1.0	8.0	5.0	15.15	185.0	17.0	10.0	104.0	56.22	39.0	0.45
+Norbert Huber	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	œrodkowy	78.0	254.0	317.0	39.0	67.0	0.5	27.0	0.0	9.0	6.0	22.22	244.0	9.0	11.0	153.0	62.7	62.0	0.79
+Szymon Jakubiszak	Indykpol AZS Olsztyn	œrodkowy	70.0	91.0	131.0	3.0	15.0	0.04	19.0	0.0	3.0	8.0	42.11	119.0	8.0	8.0	72.0	60.5	16.0	0.23
+Tomasz Kalembka	Grupa Azoty ZAKSA Kêdzierzyn-KoŸle	œrodkowy	20.0	4.0	25.0	1.0	7.0	0.05	3.0	0.0	1.0	0.0	0.0	3.0	0.0	1.0	1.0	33.33	2.0	0.1
+Marcin Kania	GKS Katowice	œrodkowy	85.0	157.0	269.0	7.0	17.0	0.08	16.0	1.0	4.0	3.0	18.75	221.0	13.0	11.0	117.0	52.94	33.0	0.39
+Sebastian Adamczyk	PGE Skra Be³chatów	œrodkowy	8.0	9.0	16.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	11.0	2.0	1.0	6.0	54.55	3.0	0.38
+Sebastian Adamczyk,PGE Skra Be³chatów,œrodkowy,8.0	9.0	16.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	11.0	2.0	1.0	6.0	54.55	3.0	0.38
+Taylor Averill,Indykpol AZS Olsztyn,œrodkowy,56.0	103.0	168.0	7.0	33.0	0.12	6.0	1.0	1.0	0.0	0.0	113.0	7.0	7.0	69.0	61.06	27.0	0.48
+Mateusz Bieniek,PGE Skra Be³chatów,œrodkowy,104.0	302.0	489.0	54.0	78.0	0.52	13.0	0.0	4.0	4.0	30.77	328.0	15.0	14.0	193.0	58.84	55.0	0.53
+Sebastian Adamczyk,PGE Skra Be³chatów,œrodkowy,8.0	9.0	16.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	11.0	2.0	1.0	6.0	54.55	3.0	0.38
+Taylor Averill,Indykpol AZS Olsztyn,œrodkowy,56.0	103.0	168.0	7.0	33.0	0.12	6.0	1.0	1.0	0.0	0.0	113.0	7.0	7.0	69.0	61.06	27.0	0.48
