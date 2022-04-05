@@ -5,7 +5,9 @@ from bs4 import BeautifulSoup
 import requests
 import win32com.client as win32
 import os
+import shutil
 import xlwings as xw
+from datetime import date
 
 zawodnicy = 2
 srodkowi = 2
@@ -51,19 +53,19 @@ def getData(name, team, url, position):
 
     
     #save stats to .txt file
-    if a[0] != 0:
-        
-        
-        # Open existing Workbooks
-        wb = xw.Book('zawodnicy.xlsx')  
-        sheet1 = wb.sheets['zawodnicy']
-        sheet2 = wb.sheets['atakujacy']
-        sheet3 = wb.sheets['rozgrywajacy']
-        sheet4 = wb.sheets['przyjmujacy']
-        sheet5 = wb.sheets['srodkowi']
-        sheet6 = wb.sheets['libero']
-
+    if a[0] > 20:
+             
         if zawodnicy == 2:
+            # Open existing Workbooks
+            wb = xw.Book('zawodnicy.xlsx')  
+            sheet1 = wb.sheets['zawodnicy']
+            sheet2 = wb.sheets['atakujacy']
+            sheet3 = wb.sheets['rozgrywajacy']
+            sheet4 = wb.sheets['przyjmujacy']
+            sheet5 = wb.sheets['srodkowi']
+            sheet6 = wb.sheets['libero']
+
+            #adding headers
             sheet1.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
             sheet2.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
             sheet3.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
@@ -86,7 +88,7 @@ def getData(name, team, url, position):
         sheet1.range(pos).value = data
         zawodnicy = zawodnicy + 1
 
-            
+
         if position == "atakujący":
             pos = 'A' + str(atakujacy)
             sheet2.range(pos).value = data
@@ -165,3 +167,7 @@ def getPlayers():
     
 
 getPlayers()
+
+src = 'zawodnicy.xlsx'
+dst = str(date.today())+'.xlsx'
+shutil.copyfile(src, dst)
