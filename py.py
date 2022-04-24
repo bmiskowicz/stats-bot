@@ -15,7 +15,7 @@ atakujacy = 2
 libero = 2
 przyjmujacy = 2
 rozgrywajacy = 2
-
+    
 
 def getData(name, team, url, position):
     global zawodnicy
@@ -55,24 +55,7 @@ def getData(name, team, url, position):
     #save stats to .txt file
     if a[0] > 20:
              
-        if zawodnicy == 2:
-            # Open existing Workbooks
-            wb = xw.Book('zawodnicy.xlsx')  
-            sheet1 = wb.sheets['zawodnicy']
-            sheet2 = wb.sheets['atakujacy']
-            sheet3 = wb.sheets['rozgrywajacy']
-            sheet4 = wb.sheets['przyjmujacy']
-            sheet5 = wb.sheets['srodkowi']
-            sheet6 = wb.sheets['libero']
-
-            #adding headers
-            sheet1.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
-            sheet2.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
-            sheet3.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
-            sheet4.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
-            sheet5.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
-            sheet6.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
-
+        
 
         data = ','.join(str(e) for e in a)
         data = name + ',' + team + ',' + position + ',' + data
@@ -164,7 +147,23 @@ def getPlayers():
         getData(names_table[i], teams_table[i], links_table[i], positions_table[i])      
 
 
-    
+
+# Open existing Workbooks
+wb = xw.Book('zawodnicy.xlsx')  
+sheet1 = wb.sheets['zawodnicy']
+sheet2 = wb.sheets['atakujacy']
+sheet3 = wb.sheets['rozgrywajacy']
+sheet4 = wb.sheets['przyjmujacy']
+sheet5 = wb.sheets['srodkowi']
+sheet6 = wb.sheets['libero']
+
+#adding headers
+sheet1.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
+sheet2.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
+sheet3.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
+sheet4.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
+sheet5.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
+sheet6.range('A1').value = ['Nazwisko', 'Klub', 'Pozycja', 'Liczba setów', 'Punkty', 'Suma zagrywek', 'Asy serwisowe', 'Błędy na zagrywce', 'Asy na set', 'Suma przyjęć', 'Błędy w przyjęciu', 'Negatywne przyjęcia', 'Przyjęcia', '% przyjęcia', 'Suma ataków', 'Błędy w ataku', 'Zablokowane ataki', 'Skończone ataki', '% Skuteczności ataku', '% efektywności ataku', 'Bloki', 'Bloki na set']
 
 getPlayers()
 
